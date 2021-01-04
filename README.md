@@ -1,2 +1,3 @@
 # hello-world
-just another repo
+Hello all
+I am learning branches in Git
